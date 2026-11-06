@@ -1,0 +1,8 @@
+串香蔬食炸烤網站修正版
+
+解壓縮後，將所有內容上傳至 GitHub Repository 最外層（main branch root）。
+必須保留 assets 資料夾，裡面有 style.css 和 favicon.svg。
+
+必要檔案：index.html、menu.html、assets/style.css、assets/favicon.svg、robots.txt、sitemap.xml。
+網站網址：https://friedskewers.github.io/chuangxiang-website/
+本版本補回遺漏的 CSS 資料夾，並修正 SEO 網址。
